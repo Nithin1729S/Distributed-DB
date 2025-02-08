@@ -104,7 +104,7 @@ Encryption and decryption are handled with AES in CTR mode.
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/distributed-file-storage.git
+    git clone https://github.com/Nithin1729S/Distributed-DB
     cd distributed-file-storage
     ```
 
